@@ -35,15 +35,11 @@ By the end of this course, learners will be able to:
 
 ### 4. Course Schedule (120 Minutes)
 
-| Time            | Topic                                | Learning Activities                              | Mini Output          |
-| --------------- | ------------------------------------ | ------------------------------------------------ | -------------------- |
-| **0–20 min**    | Introduction to Data & Visualization | Lecture, discussion, examples of good/bad charts | Analytical questions |
-| **20–40 min**   | Understanding the Dataset            | Data exploration demo                            | Data overview        |
-| **40–60 min**   | Data Preparation                     | Live data cleaning demo                          | Clean dataset        |
-| **60–80 min**   | Exploratory Data Visualization       | Creating basic charts                            | Visual patterns      |
-| **80–100 min**  | Interpreting Data & Insight          | Chart reading & discussion                       | Insight statements   |
-| **100–120 min** | Wrap-up & Reflection                 | Case discussion, Q&A                             | Key takeaways        |
+### Module 1: The Importance of Data Visualization and Introductory Data Analytics  
 
+This lecture module introduces the foundational role of data visualization in data analytics and emphasizes its function as a cognitive and analytical tool rather than a mere presentation technique. It conceptualizes the transformation from raw data to insight through effective representation and interpretation, situating visualization at the core of exploratory data analysis (EDA). The module integrates theoretical discussion with practical Python-based demonstrations to illustrate how visual methods support hypothesis generation, pattern recognition, and analytical reasoning. Through guided examples and structured self-study exercises, learners develop critical skills in selecting appropriate visualizations, interpreting graphical outputs, and understanding the complementary relationship between visualization and statistical analysis.
+
+* Handout 
 ---
 
 ### 5. Teaching and Learning Activities
