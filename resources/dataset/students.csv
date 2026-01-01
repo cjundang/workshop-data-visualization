@@ -1,0 +1,201 @@
+student_id,age,gender,major,gpa,score,credits_earned,absences,enrollment_date
+1001,24,Male,Engineering,3.02,63,71,2,2023-04-16
+1002,21,Female,Computer Science,3.28,75,118,13,2021-08-31
+1003,22,Male,Mathematics,2.33,94,47,1,2021-12-26
+1004,24,Male,Mathematics,2.99,76,69,11,2021-03-20
+1005,20,Female,Engineering,3.22,58,101,0,2021-02-01
+1006,25,Male,Mathematics,2.93,75,68,6,2020-11-12
+1007,22,Female,Computer Science,3.79,96,43,6,2022-08-14
+1008,22,Female,Engineering,2.87,71,61,11,2021-06-23
+1009,24,Female,Computer Science,3.17,96,80,1,2023-07-08
+1010,19,Male,Computer Science,3.34,79,67,6,2020-10-31
+1011,20,Male,Mathematics,3.73,92,52,12,2023-03-28
+1012,24,Male,Mathematics,2.87,97,92,7,2020-10-12
+1013,20,Male,Mathematics,3.65,66,44,0,2020-09-25
+1014,20,Male,Mathematics,3.3,75,54,8,2023-07-30
+1015,25,Male,Mathematics,3.01,85,46,6,2021-01-09
+1016,22,Male,Engineering,3.44,50,95,2,2020-12-17
+1017,21,Female,Computer Science,3.36,57,107,7,2021-02-19
+1018,25,Male,Computer Science,3.12,98,82,6,2020-12-11
+1019,25,Female,Computer Science,3.32,84,80,10,2023-01-14
+1020,20,Male,Computer Science,3.18,64,68,14,2022-02-06
+1021,23,Male,Mathematics,3.33,96,80,12,2021-06-02
+1022,22,Male,Computer Science,3.5,71,99,7,2023-08-04
+1023,19,Female,Engineering,3.78,63,35,5,2022-11-26
+1024,25,Female,Engineering,2.93,75,96,8,2023-04-15
+1025,21,Female,Computer Science,3.94,77,36,14,2023-07-08
+1026,23,Female,Computer Science,2.71,72,80,4,2021-07-27
+1027,23,Male,Engineering,3.25,63,101,2,2020-09-12
+1028,19,Female,Engineering,3.48,73,71,2,2021-04-04
+1029,25,Male,Mathematics,3.38,51,93,0,2021-08-05
+1030,21,Male,Engineering,3.11,94,44,11,2022-06-23
+1031,22,Female,Mathematics,3.24,75,58,14,2021-09-09
+1032,18,Female,Mathematics,3.15,63,62,7,2023-05-04
+1033,21,Female,Mathematics,3.12,56,56,1,2022-08-11
+1034,19,Female,Mathematics,3.55,52,65,2,2021-12-10
+1035,23,Female,Mathematics,3.41,96,58,7,2022-01-02
+1036,22,Female,Computer Science,3.09,72,67,13,2020-10-17
+1037,21,Female,Engineering,3.57,95,86,7,2022-10-18
+1038,18,Female,Mathematics,3.39,92,56,13,2023-07-07
+1039,18,Male,Engineering,3.54,96,84,10,2022-08-12
+1040,20,Female,Engineering,3.49,94,62,3,2021-10-06
+1041,20,Female,Mathematics,3.05,67,97,3,2023-05-09
+1042,24,Male,Computer Science,3.13,87,115,4,2021-05-08
+1043,19,Female,Mathematics,3.52,84,95,5,2021-09-26
+1044,25,Male,Computer Science,3.48,64,39,4,2021-08-01
+1045,21,Male,Engineering,3.29,74,34,13,2022-05-22
+1046,21,Female,Computer Science,3.34,86,103,14,2021-01-15
+1047,25,Male,Computer Science,3.68,77,67,6,2023-01-31
+1048,24,Male,Computer Science,3.12,59,42,1,2022-07-20
+1049,23,Male,Engineering,3.46,88,60,6,2022-12-06
+1050,23,Male,Engineering,3.24,66,76,9,2022-08-28
+1051,24,Female,Computer Science,3.23,88,117,6,2022-04-17
+1052,23,Male,Computer Science,3.63,71,81,0,2023-05-18
+1053,20,Female,Mathematics,3.55,75,85,6,2021-09-07
+1054,21,Male,Computer Science,3.54,93,44,4,2023-03-24
+1055,24,Male,Mathematics,3.69,74,58,2,2023-05-23
+1056,21,Male,Computer Science,3.31,66,37,12,2021-10-07
+1057,25,Male,Mathematics,3.5,62,34,2,2022-05-08
+1058,18,Female,Engineering,3.21,69,58,3,2023-05-23
+1059,20,Female,Computer Science,3.4,74,76,12,2022-05-13
+1060,22,Male,Computer Science,3.26,53,97,11,2021-03-07
+1061,20,Male,Computer Science,3.33,59,105,1,2021-01-09
+1062,24,Female,Computer Science,3.48,52,74,1,2022-11-14
+1063,22,Male,Mathematics,3.05,90,31,0,2023-03-25
+1064,18,Male,Computer Science,3.93,94,56,14,2023-05-14
+1065,24,Male,Engineering,3.0,67,65,4,2021-03-02
+1066,19,Female,Engineering,2.94,96,65,3,2023-05-11
+1067,21,Female,Computer Science,3.65,85,55,10,2021-08-30
+1068,18,Female,Engineering,3.54,96,72,9,2020-10-09
+1069,21,Male,Computer Science,3.49,71,56,14,2022-01-10
+1070,23,Male,Computer Science,3.49,83,98,1,2023-05-10
+1071,19,Female,Engineering,3.3,96,49,2,2023-03-10
+1072,19,Female,Computer Science,3.03,57,40,6,2022-08-23
+1073,18,Female,Engineering,3.32,89,103,6,2020-09-16
+1074,19,Female,Mathematics,3.1,98,67,11,2022-01-06
+1075,22,Male,Computer Science,3.59,93,35,3,2023-02-11
+1076,19,Female,Mathematics,3.26,68,101,4,2021-07-08
+1077,21,Male,Engineering,3.05,91,52,4,2022-09-09
+1078,21,Female,Mathematics,3.2,90,76,5,2022-02-28
+1079,24,Male,Mathematics,3.42,86,119,13,2021-10-19
+1080,21,Female,Engineering,3.13,55,75,8,2021-05-09
+1081,24,Female,Mathematics,3.05,75,41,1,2022-09-29
+1082,21,Female,Mathematics,3.37,83,119,4,2023-07-30
+1083,22,Female,Engineering,3.37,94,42,11,2022-11-23
+1084,25,Male,Mathematics,3.15,55,91,2,2020-09-29
+1085,24,Female,Engineering,3.16,86,111,3,2023-04-16
+1086,20,Male,Mathematics,3.37,82,118,9,2021-12-21
+1087,23,Male,Engineering,2.87,71,89,5,2021-07-15
+1088,18,Male,Engineering,2.88,70,72,11,2021-05-03
+1089,21,Male,Mathematics,3.08,55,105,7,2022-09-18
+1090,19,Female,Mathematics,3.24,55,97,0,2022-07-29
+1091,25,Male,Mathematics,3.39,97,34,9,2021-05-30
+1092,21,Male,Computer Science,3.74,53,66,13,2021-09-12
+1093,19,Male,Computer Science,3.56,79,101,7,2021-05-24
+1094,23,Female,Computer Science,3.25,60,60,10,2023-03-15
+1095,23,Female,Engineering,3.29,79,38,13,2023-03-10
+1096,23,Female,Mathematics,3.0,80,80,6,2021-08-06
+1097,19,Female,Engineering,3.29,73,58,0,2021-09-24
+1098,21,Male,Computer Science,3.21,58,107,1,2022-03-31
+1099,23,Male,Mathematics,3.4,52,69,2,2020-09-03
+1100,22,Female,Engineering,3.05,80,70,0,2021-09-11
+1101,24,Male,Mathematics,3.46,89,115,13,2021-07-21
+1102,19,Male,Engineering,3.76,86,40,8,2021-01-24
+1103,19,Male,Mathematics,3.27,85,52,7,2021-06-20
+1104,21,Female,Computer Science,3.42,73,30,1,2021-11-06
+1105,19,Female,Computer Science,3.51,80,75,12,2022-08-06
+1106,19,Male,Mathematics,3.18,55,50,8,2023-04-07
+1107,23,Female,Engineering,3.37,51,119,6,2022-04-08
+1108,21,Female,Computer Science,3.3,69,65,8,2021-10-04
+1109,23,Female,Computer Science,3.33,77,83,5,2022-11-26
+1110,24,Female,Computer Science,3.07,60,116,5,2023-04-22
+1111,25,Female,Mathematics,3.31,53,86,10,2021-03-06
+1112,24,Male,Mathematics,3.45,64,30,13,2020-10-31
+1113,25,Female,Engineering,3.74,55,92,3,2023-03-28
+1114,23,Male,Engineering,3.59,98,83,9,2022-08-11
+1115,24,Male,Engineering,3.95,79,84,9,2022-11-16
+1116,21,Female,Mathematics,3.07,87,69,12,2020-09-11
+1117,18,Male,Mathematics,3.56,51,44,12,2023-08-22
+1118,23,Male,Engineering,3.36,64,50,1,2021-04-14
+1119,25,Male,Engineering,3.96,60,76,6,2022-03-18
+1120,22,Female,Mathematics,3.06,57,102,4,2022-10-12
+1121,25,Female,Engineering,3.05,75,82,10,2023-02-02
+1122,22,Male,Computer Science,3.12,94,38,5,2021-04-14
+1123,19,Female,Mathematics,2.66,93,103,1,2022-12-04
+1124,24,Female,Engineering,3.14,54,81,4,2021-04-06
+1125,22,Female,Mathematics,3.07,55,86,9,2023-03-26
+1126,25,Female,Computer Science,3.35,75,55,3,2022-09-23
+1127,19,Male,Mathematics,3.4,53,70,8,2022-01-19
+1128,18,Male,Mathematics,3.86,68,64,5,2021-05-17
+1129,21,Female,Mathematics,3.59,69,92,1,2020-10-24
+1130,21,Female,Mathematics,3.13,82,54,0,2023-08-07
+1131,21,Male,Computer Science,3.03,69,119,4,2022-08-28
+1132,22,Male,Mathematics,3.45,98,104,8,2022-07-21
+1133,18,Female,Mathematics,2.9,61,67,5,2023-07-11
+1134,22,Male,Engineering,3.85,96,31,9,2021-10-24
+1135,24,Female,Mathematics,3.65,50,36,11,2022-07-22
+1136,22,Female,Engineering,3.16,75,111,6,2022-12-29
+1137,18,Male,Computer Science,2.79,63,63,4,2020-11-01
+1138,18,Male,Computer Science,3.71,87,46,9,2021-04-04
+1139,24,Female,Computer Science,3.27,86,72,5,2020-09-03
+1140,18,Female,Computer Science,3.67,60,88,4,2021-02-07
+1141,25,Male,Engineering,2.82,85,80,10,2022-10-21
+1142,18,Female,Mathematics,3.12,62,83,8,2023-02-10
+1143,21,Male,Computer Science,3.3,92,53,14,2021-07-26
+1144,25,Female,Mathematics,3.31,52,54,5,2022-04-03
+1145,25,Male,Engineering,3.16,82,100,10,2023-04-10
+1146,24,Male,Engineering,3.49,55,81,7,2022-05-28
+1147,20,Male,Engineering,2.98,99,99,1,2023-05-16
+1148,20,Female,Computer Science,3.26,59,117,11,2023-03-10
+1149,18,Female,Mathematics,3.34,54,62,12,2022-09-08
+1150,25,Male,Mathematics,3.45,72,78,8,2021-02-17
+1151,20,Female,Mathematics,3.51,59,58,4,2022-02-03
+1152,20,Male,Engineering,2.96,93,92,6,2020-10-10
+1153,18,Male,Computer Science,2.84,51,51,9,2023-04-13
+1154,20,Female,Engineering,3.68,62,55,12,2023-05-12
+1155,22,Female,Engineering,3.4,89,57,0,2023-05-03
+1156,19,Male,Mathematics,3.08,51,114,9,2020-10-08
+1157,24,Female,Engineering,3.77,69,78,4,2021-07-25
+1158,19,Female,Mathematics,3.33,50,100,11,2023-03-03
+1159,18,Male,Computer Science,3.65,86,110,13,2021-11-28
+1160,21,Male,Mathematics,3.32,58,113,9,2020-10-07
+1161,24,Female,Computer Science,3.92,66,78,13,2023-05-01
+1162,18,Male,Mathematics,3.83,58,49,1,2022-11-05
+1163,25,Male,Engineering,3.23,60,115,11,2023-05-01
+1164,21,Female,Engineering,3.59,64,92,5,2022-04-16
+1165,19,Male,Computer Science,3.49,73,90,10,2023-07-31
+1166,18,Male,Computer Science,3.71,87,78,0,2021-04-12
+1167,25,Female,Computer Science,3.01,84,100,2,2021-07-15
+1168,24,Female,Mathematics,3.51,79,30,4,2021-08-15
+1169,24,Male,Mathematics,3.62,80,42,3,2020-12-24
+1170,23,Male,Computer Science,2.77,98,116,2,2022-07-30
+1171,25,Female,Engineering,2.95,54,80,9,2023-07-31
+1172,22,Female,Mathematics,2.69,93,85,12,2020-10-10
+1173,20,Female,Mathematics,3.22,99,112,4,2021-04-04
+1174,21,Female,Mathematics,3.52,63,91,10,2021-08-02
+1175,25,Male,Computer Science,3.75,60,61,7,2020-12-01
+1176,23,Female,Computer Science,3.32,58,59,10,2021-08-19
+1177,20,Female,Computer Science,3.79,83,58,3,2022-03-25
+1178,20,Male,Computer Science,2.89,61,78,0,2022-11-25
+1179,18,Female,Computer Science,2.79,84,74,10,2022-10-21
+1180,20,Male,Engineering,3.28,84,59,6,2021-08-29
+1181,22,Female,Engineering,3.42,50,45,7,2022-03-11
+1182,24,Female,Computer Science,3.29,89,69,2,2021-08-22
+1183,23,Female,Mathematics,2.68,71,48,5,2021-03-10
+1184,20,Male,Computer Science,3.27,78,47,1,2021-10-27
+1185,18,Male,Engineering,2.91,57,30,6,2022-08-01
+1186,22,Female,Engineering,3.5,60,107,14,2020-09-07
+1187,19,Male,Mathematics,3.41,90,76,7,2021-01-11
+1188,24,Male,Engineering,3.02,86,95,5,2022-03-11
+1189,24,Male,Computer Science,3.15,63,67,5,2022-12-05
+1190,23,Male,Mathematics,2.98,79,80,4,2022-10-01
+1191,24,Male,Computer Science,3.28,84,92,7,2023-07-22
+1192,20,Male,Computer Science,3.59,70,33,0,2022-02-17
+1193,18,Female,Mathematics,3.0,86,30,9,2021-10-31
+1194,24,Female,Computer Science,3.45,54,37,3,2022-07-04
+1195,24,Male,Engineering,3.14,68,58,14,2021-08-29
+1196,19,Female,Computer Science,3.06,63,84,3,2020-11-21
+1197,19,Female,Mathematics,3.27,75,32,2,2021-08-22
+1198,21,Female,Mathematics,2.99,53,61,2,2022-04-12
+1199,22,Female,Mathematics,3.13,74,39,3,2021-06-22
+1200,20,Male,Computer Science,2.94,94,103,10,2023-08-06
